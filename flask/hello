@@ -1,1 +1,0 @@
-alumnos = {"David", "Julen"}
