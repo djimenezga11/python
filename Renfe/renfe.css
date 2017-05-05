@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
    margin:0px;
    padding: 0px;
@@ -40,4 +41,49 @@ header{background-image: url("banner2.jpg");
            padding-bottom: 5px;
            padding-top: 5px;
            float: left;
+=======
+*{
+   margin:0px;
+   padding: 0px;
+}
+#contenedor{
+	        background-color: white;
+	        width: 740px;
+	        margin: auto;
+          margin-top: 10px;
+}
+header{background-image: url("banner2.jpg");
+        color: #161eff;
+        text-align: center;
+        height: 300px;
+}
+#titulo{
+         padding-top: 22px;
+         background-color: white;
+
+
+}
+#logo{
+      border: 3px solid black;
+      border-radius: 10px;
+      float: left;
+      margin-left: 5px;
+      margin-top: 70px;
+}
+
+
+#opcion3{
+           height: 50px;
+           width: 60px;
+           border: 3px solid black;
+           border-radius: 10px;
+           border-color: blue;
+           background-color: white;
+           text-align: center;
+           margin-top: 5px;
+           margin-left: 5px;
+           margin-right: 5px;
+           padding-bottom: 5px;
+           padding-top: 5px;
+>>>>>>> 250846182bc8be02737641b4e5ffeb1f4c32692a
 }
