@@ -1,0 +1,43 @@
+*{
+   margin:0px;
+   padding: 0px;
+}
+#contenedor{
+	        background-color: white;
+	        width: 740px;
+	        margin: auto;
+          margin-top: 10px;
+}
+header{background-image: url("banner2.jpg");
+        color: #161eff;
+        text-align: center;
+        height: 300px;
+}
+#titulo{
+         padding-top: 22px;
+         background-color: white;
+
+
+}
+#logo{
+      float: left;
+      margin-left: 5px;
+      margin-top: 70px;
+}
+
+
+#opcion3{
+           height: 25px;
+           width: 100px;
+           border: 3px solid black;
+           border-radius: 10px;
+           border-color: blue;
+           background-color: white;
+           text-align: center;
+           margin-top: 40px;
+           margin-left: 100px;
+           margin-right: 5px;
+           padding-bottom: 5px;
+           padding-top: 5px;
+           float: left;
+}

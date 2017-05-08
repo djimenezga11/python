@@ -58,6 +58,7 @@ class WareHouse():
 my_car = Car('Audi', 'A4', '2016')
 my_car2 = Car('Audi', 'R8', '2017')
 my_eCar = ElectricCar('tesla', 's', '2016')
+my_eCar2 = ElectricCar('tesla', 's2', '2017')
 
 
 

@@ -8,3 +8,5 @@ app.debug = True
 def renfe():
     return render_template("renfe.html")
 
+if __name__ == "__main__":
+    app.run()
