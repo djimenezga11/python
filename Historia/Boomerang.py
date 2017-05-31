@@ -10,4 +10,6 @@ class Boomerang(object):
             return 0
         else:
             self.quita = random.randrange(11,16)+origen.inteligencia
-            origen.dano
+            origen.dano += 10
+        return self.quita
+

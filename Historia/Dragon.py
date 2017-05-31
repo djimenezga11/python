@@ -49,6 +49,4 @@ while EmpezarNuevo == ("s") or EmpezarNuevo == ("si"):
     print ("Quieres jugar de nuevo? (si o no)")
     EmpezarNuevo = input()
 
-
-
-
+                

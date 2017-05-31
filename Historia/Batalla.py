@@ -1,5 +1,6 @@
 import random
 import Boomerang as boo
+import Golpear as gol
 
 class Jugador(object):
     def __init__(self, nombre):
@@ -10,7 +11,7 @@ class Jugador(object):
         self.inteligencia = random.randrange(2,5)
         self.vida = self.vida_max
         self.dano = self.dano_max
-        self.habilidades = [Boomerang(), Golpear()]
+        self.habilidades = [boo.Boomerang(), gol.Golpear()]
 
     def __str__(self):
 
