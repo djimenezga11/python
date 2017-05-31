@@ -1,0 +1,1 @@
+team = ["Real Madrid", "Barcelona", "Atletico de Madrid", "Sevilla", "Villarreal", "Athletic", "Real Sociedad", "Eibar", "Espanyol", "Alaves", "Malaga", "Celta", "Valencia", "Las Palmas", "Betis", "Leganes", "Deportivo", "Sporting", "Granada", "Osasuna"]
