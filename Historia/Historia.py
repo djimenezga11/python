@@ -1,5 +1,6 @@
 import random
 import time
+import Dragon as d
 
 class Jugador(object):
     def __init__(self, nombre):
@@ -134,6 +135,11 @@ def main():
             print("Gana",j1.nombre)
         else:
             print("Gana",j2.nombre)
+
+d.introduccion()
+NumCaverna = d.CambiarCueva
+d.cheqcueva(d.CambiarCueva)
+        
             	
 main()
 

@@ -2,7 +2,7 @@ import random
 import time
 
 def introduccion():
-    print ("Estamos en una tierra llena de dragones. Delante nuestro,")
+    print ("Bienvenido ganador. Estamos en una tierra llena de dragones. Delante nuestro,")
     time.sleep(2)
     print ("se ven dos cuevas. En una cueva, el dragon es amigable")
     time.sleep(2)
